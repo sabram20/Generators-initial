@@ -1,2 +1,2 @@
 # Generators-initial
-Work to construct a generator, which differs from interators
+# Work to construct a generator, which differs from interators
